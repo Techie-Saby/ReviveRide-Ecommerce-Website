@@ -21,7 +21,7 @@ This repository contains the frontend codebase for ReviveRide's car repair e-com
 - Customer dashboard for managing appointments and orders
 - Integration with ReviveRide's inventory and scheduling systems
 
-- ### Getting Started
+### Getting Started
 
 To set up the project locally:
 1. Clone this repository
@@ -30,4 +30,4 @@ To set up the project locally:
 
 For production build, use `npm run build`.
 
-- ### Check in live
+### Check in live
